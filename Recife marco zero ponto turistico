@@ -1,1 +1,74 @@
 # projetohtmlsecssproz2
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Marco Zero - Recife</title>
+  <style>
+    /* Estilos CSS para o layout da página */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Marco Zero - Recife</h1>
+  </header>
+
+  <main>
+    <h2>O que é o Marco Zero?</h2>
+    <p>O Marco Zero é um ponto turístico localizado na cidade do Recife, no estado de Pernambuco, Nordeste do Brasil. Ele marca o início das principais vias da cidade e é considerado o marco inicial das distâncias rodoviárias do Recife.</p>
+
+    <h2>Localização</h2>
+    <p>O Marco Zero está situado na Praça Rio Branco, no Bairro do Recife, próximo ao Porto do Recife e à famosa ponte Maurício de Nassau. Sua localização privilegiada proporciona uma vista panorâmica do Rio Capibaribe.</p>
+
+    <img src="marco_zero.jpg" alt="Foto do Marco Zero">
+
+    <h2>Atrações próximas</h2>
+    <ul>
+      <li>Praça do Marco Zero</li>
+      <li>Ponte Maurício de Nassau</li>
+      <li>Museu Cais do Sertão</li>
+      <li>Praça do Arsenal</li>
+      <li>Rua do Bom Jesus</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Cidade do Recife. Todos os direitos reservados.</p>
+  </footer>
+</body>
+
+</html>
